@@ -1,7 +1,7 @@
 # Split_seams
 A simple script for splitting a mesh along the UV seams
   
-#Instalation  
+#Installation  
 1. Download the split_seams.py file  
 2. Open Blender  
 3. Go to File->User Preferences->Add-ons->Install from File  
